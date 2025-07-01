@@ -1,0 +1,43 @@
+{
+  "short_name": "EDU AI",
+  "name": "EDU AI Platforma - Gamifikovaná vzdělávací platforma",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/EDU_AI_Platforma",
+  "display": "standalone",
+  "theme_color": "#3B82F6",
+  "background_color": "#ffffff",
+  "scope": "/EDU_AI_Platforma",
+  "screenshots": [
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "EDU AI Platforma - Desktop View"
+    },
+    {
+      "src": "logo512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "label": "EDU AI Platforma - Mobile View"
+    }
+  ]
+}
