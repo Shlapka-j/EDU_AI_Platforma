@@ -217,3 +217,4 @@ curl http://localhost:3001/api/chat/models
 4. **Vyskúšajte menší model** - `phi3:mini` namiesto `llama2`
 
 **🎉 Hotovo! Teraz máte skutočný AI systém s vector databázou!** 🚀
+kakat
